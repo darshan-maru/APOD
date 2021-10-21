@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "apod-3ed81",
+    "staging": "apod-3ed81"
+  },
+  "targets": {}
+}
